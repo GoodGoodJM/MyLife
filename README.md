@@ -7,7 +7,9 @@ GGM 키우기
 
 목표: **사람이되자**
 
-[프로젝트 링크](https://github.com/GoodGoodJM/MyLife/projects/3)
+[프로젝트 링크](https://github.com/GoodGoodJM/MyLife/projects/1)
+
+[마일스톤 링크](https://github.com/GoodGoodJM/MyLife/milestone/4)
 
 ---
 
