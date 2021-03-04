@@ -9,7 +9,7 @@ GGM 키우기
 
 [프로젝트 링크](https://github.com/GoodGoodJM/MyLife/projects/3)
 
-=====
+---
 
 ## 20년 3~ 21년 2월
 
