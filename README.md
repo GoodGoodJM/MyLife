@@ -5,7 +5,7 @@ GGM 키우기
 
 다시 시작한다.
 
-목표: **사람이되자**
+목표: **사람이되자**, 포스팅 하나, 영어 작문 기본서적들 다 떼기
 
 [프로젝트 링크](https://github.com/GoodGoodJM/MyLife/projects/1)
 
